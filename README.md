@@ -1,7 +1,7 @@
 # Invoice-workflow-N8N-
 This workflow automates the end-to-end handling of incoming invoices using a combination of Google Drive, AI-based information extraction, Google Sheets, and Gmail.
 
-**Workflow Overview:
+# Workflow Overview:
 
 The system detects newly uploaded invoice files in a designated Google Drive folder. It extracts key invoice details regardless of formatting. It then logs them into a Google Sheets database. Finally, it uses AI to generate a summary email, which is sent directly to the billing team.
 
@@ -9,12 +9,12 @@ The system detects newly uploaded invoice files in a designated Google Drive fol
 
 
 
-**Automated Invoice Processing Workflow (n8n):
+# Automated Invoice Processing Workflow (n8n):
 
 This workflow automates the end-to-end handling of incoming invoices using a combination of Google Drive, AI-based information extraction, Google Sheets, and Gmail.
 
 
-Step-by-Step Process
+# Step-by-Step Process
 1. Google Drive Trigger
 The workflow is triggered whenever a new file is added to a specific Google Drive folder.
 
@@ -57,7 +57,7 @@ The workflow ends cleanly after the email is dispatched.
 
 This automation significantly reduces manual effort, improves consistency in record keeping, and ensures that all invoices are reviewed and actioned promptly by the appropriate team.
 
-**Final Result:
+# Final Result:
 
 The system outputs a clear and professional email sent to the billing team, summarizing the invoice details and providing a link to the updated database. Below is an example of a generated email:
 
