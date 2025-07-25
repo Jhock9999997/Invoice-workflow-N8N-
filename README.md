@@ -56,3 +56,10 @@ The generated email is sent to the billing team, ensuring timely review and proc
 The workflow ends cleanly after the email is dispatched.
 
 This automation significantly reduces manual effort, improves consistency in record keeping, and ensures that all invoices are reviewed and actioned promptly by the appropriate team.
+
+**Final Result:
+
+The system outputs a clear and professional email sent to the billing team, summarizing the invoice details and providing a link to the updated database. Below is an example of a generated email:
+
+<img width="1412" height="822" alt="image" src="https://github.com/user-attachments/assets/b19d5010-568b-4450-ac70-746608cf9ba0" />
+
